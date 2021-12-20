@@ -1,0 +1,74 @@
+
+body {
+    font-family: "Open Sans", sans-serif;
+    background-image: url(https://eskipaper.com/images/light-green-wallpaper-7.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* 
+    background-color: rgb(175, 177, 176)
+    */
+}
+h1, h2, h3{
+    font-family: "Lobster", cursive;
+}
+h2{
+    color:#3046C5;
+}
+header h2{
+    color:#CEC8FF;
+}
+.site-footer{
+    background-image: linear-gradient(rgb(175, 177, 176), rgb(2, 26, 2));
+    padding: 20px 0;
+}
+.jumbotron{
+    margin:0;
+    padding: 30px;
+    background-image: linear-gradient(to left, rgb(152, 199, 179), #042c11);
+    color: white;
+}
+.row-content{
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height:200px;
+}
+.navbar{
+
+   background-color:rgb(19, 58, 43); 
+}
+
+.tab-content {
+    border: 1px solid #DDD;
+    border-top: none;
+    padding: 10px;
+}
+
+.navbar-dark {
+    background-image: gray;
+
+}
+.carousel-caption {
+    background-color: rgba(37, 36, 36, 0.5);
+}
+.carousel {
+    border: solid #021b06;
+}
+
+.card {
+    height: 300px;
+    width: auto;
+    background-image: linear-gradient(to bottom, orange, yellow, white);  
+}
+.card-body {
+    border:5px rgb(1, 27, 11);
+
+}
+.modal-body{
+    background-image: linear-gradient(to bottom, orange, yellow, white);
+}
+.modal-header{
+    background-color: rgb(255, 132, 0);
+}

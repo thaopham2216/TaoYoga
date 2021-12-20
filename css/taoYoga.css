@@ -1,0 +1,35 @@
+.navbar-dark {
+    background-color: #251d15;
+}
+h1{
+    font-family: "Lobster", cursive;
+    font-size: 100px;
+    text-align: center;
+}
+h2{
+    font-family: "Lobster", cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+.jumbotron{
+    margin:0;
+    padding: 20px;
+    background-image: linear-gradient(to right,#042006 , #084e31, #208a92);
+    color: white;
+}
+
+.navbar-dark {
+    background-color: #901CAD;
+}
+.carousel-caption {
+    background-color: rgba(0,0,0,0.5);
+}
+.carousel {
+    border: solid #5637DD;
+}
+.item img {
+    width: 100%;
+    height: 200px !important;
+    object-fit: cover;
+}
